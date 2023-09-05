@@ -1,11 +1,14 @@
 # movie_list
 ## features
 * check up all movies
-![image](https://github.com/YenYu-Tung/movie_list/blob/master/movie-list-main.png)
+<img src="https://github.com/YenYu-Tung/movie_list/blob/master/movie-list-main.png" width="500px"/>
+
 * for more detail information
-![image](https://github.com/YenYu-Tung/movie_list/blob/master/movie-list-show.png)
+<img src="https://github.com/YenYu-Tung/movie_list/blob/master/movie-list-show.png" width="500px"/>
+
 * search with keyword
-![image](https://github.com/YenYu-Tung/movie_list/blob/master/movie-list-search.png)
+<img src="https://github.com/YenYu-Tung/movie_list/blob/master/movie-list-search.png" width="500px"/>
+
 ## environment setup
 * install node.js & npm
 * clone the repository to local
